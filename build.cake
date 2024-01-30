@@ -1,4 +1,4 @@
-#addin nuget:?package=Cake.7zip&version=3.0.0
+#addin nuget:?package=Cake.7zip&version=4.1.0
 
 ///////////////////////////////////////////////////////////////////////////////
 // ARGUMENTS
